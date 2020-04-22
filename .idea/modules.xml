@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="bentley-events/app" />
+      <module fileurl="file://$PROJECT_DIR$/bentley-events.iml" filepath="$PROJECT_DIR$/bentley-events.iml" group="bentley-events" />
+    </modules>
+  </component>
+</project>
